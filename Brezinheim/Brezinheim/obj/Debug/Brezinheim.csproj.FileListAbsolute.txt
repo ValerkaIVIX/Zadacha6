@@ -1,0 +1,10 @@
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\bin\Debug\Brezinheim.exe.config
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\bin\Debug\Brezinheim.exe
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\bin\Debug\Brezinheim.pdb
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.csprojResolveAssemblyReference.cache
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.Form1.resources
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.Properties.Resources.resources
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.csproj.GenerateResource.Cache
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.csproj.CoreCompileInputs.cache
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.exe
+C:\Users\Slon\Desktop\Brezinheim\Brezinheim\obj\Debug\Brezinheim.pdb
